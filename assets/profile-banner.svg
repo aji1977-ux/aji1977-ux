@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="210" viewBox="0 0 1120 210" role="img" aria-label="aji1977 업무 시스템 개발 기록">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102c40"/>
+      <stop offset="1" stop-color="#164e5a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1120" height="210" rx="16" fill="url(#background)"/>
+  <path d="M855 0v210M950 0v210M1045 0v210M810 60h310M810 150h310" stroke="#83b7bc" stroke-opacity=".13"/>
+  <rect x="905" y="45" width="38" height="38" rx="8" fill="#78c4b2" fill-opacity=".3"/>
+  <rect x="960" y="100" width="38" height="38" rx="8" fill="#78c4b2" fill-opacity=".55"/>
+  <rect x="1015" y="45" width="38" height="38" rx="8" fill="#78c4b2" fill-opacity=".16"/>
+  <text x="46" y="66" fill="#9ed8cd" font-size="20" font-family="Arial, sans-serif" letter-spacing="2">aji1977</text>
+  <text x="44" y="122" fill="#ffffff" font-size="34" font-weight="700" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif">업무 시스템 개발 기록</text>
+  <text x="46" y="167" fill="#b7ced4" font-size="18" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif">기획 · 개발 · 검증</text>
+</svg>
